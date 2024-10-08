@@ -10,7 +10,7 @@ In C++, operators and data types are essential building blocks for performing op
             
         *   short: Smaller integer (typically 2 bytes)
             
-        *   long: Larger integer (typically 4 bytes)
+        *   long: Larger integer (typically 8 bytes on 64bit and 4 bytes on 32bit PCs)
             
         *   long long: Even larger integer (typically 8 bytes)
             
